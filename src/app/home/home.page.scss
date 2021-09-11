@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Cairo');
+h1{
+    font-size: 45px;
+
+}
+h3{
+    font-size: 18px; 
+}
+pre{
+    font-family: 'Cairo'; 
+    text-indent: 18px; 
+    text-justify: inter-word;
+}
+#text1{
+    margin-top: 16%;
+    top: 20%;
+    font-weight: 100;
+    text-indent: 18px;
+    font-family: 'Montserrat';
+
+}
+#text2{
+    margin-top: -15px;
+    text-indent: 18px;
+    color:#f3ad17;
+    text-indent: 18px;
+    font-weight:bold;
+    font-family: 'Montserrat';
+
+}
+#text3{
+    margin-top: 20%;
+    text-indent: 18px;
+    color:#B2ADAD;
+    font-family: 'Cairo';
+}
+#text4{
+    margin-top: -3%;
+}
+#text5{
+    margin-top: -8%;
+}
+#ico{
+    margin-top: -9%;
+    margin-left: 6%;
+}
+button{
+    font-size: 20px;
+    font-family: 'Cairo';
+    color: black;
+    border: 2px solid #f3ad17;
+    border-radius: 8px;
+    background-color: #f3ad17;
+    margin-top: 9%;
+    width: 90%;
+    margin-left: 5%;
+    height: 7%;
+}
+#text6{
+    font-size: 13px;
+    margin-left: 10%;
+    font-family: 'Cairo';
+    margin-top: -1%;
+    color:  #737373;
+}
